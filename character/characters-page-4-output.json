@@ -1,0 +1,20 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Brandy",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "80",
+          "name": "Caterpillar Mr. Benson",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg"
+        }
+      ]
+    }
+  }
+}
