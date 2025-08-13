@@ -1,0 +1,21 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "41",
+          "name": "Badass Morty",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        
+        {
+          "id": "60",
+          "name": "Borpocian",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/60.jpeg"
+        }
+      ]
+    }
+  }
+}
